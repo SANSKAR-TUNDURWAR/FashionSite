@@ -1,0 +1,26 @@
+export const mainCarouselData = [
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"../../../images/Mens/men1.jpg",
+        path:"/women/clothing/lengha_choli"
+    }
+]
